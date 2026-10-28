@@ -1,20 +1,19 @@
 
-<!-- ===================================================== -->
-<!--             PURNENDU JANA - GITHUB README             -->
-<!-- ===================================================== -->
+<!--
+  GitHub Profile README
+  Repository: PURNENDU2004-crypto/PURNENDU2004-crypto
+-->
 
 <div align="center">
 
 # 👋 Hi, I'm Purnendu Jana
 
-### 🤖 Aspiring AI/ML Engineer | Exploring Agentic AI
+### AI/ML Engineer in Progress | Exploring Agentic AI
 
 <p>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Learning+Python+%26+Machine+Learning;Building+Projects+and+Improving+Every+Day;Exploring+Generative+AI+%26+Agentic+AI;Turning+Ideas+Into+Working+Projects" alt="Typing introduction" />
-</p>
-
-<p>
-  <img src="https://komarev.com/ghpvc/?username=PURNENDU2004-crypto&style=for-the-badge&color=0969DA&label=PROFILE+VIEWS" alt="Profile views" />
+  <a href="https://github.com/PURNENDU2004-crypto">
+    <img src="https://komarev.com/ghpvc/?username=PURNENDU2004-crypto&style=for-the-badge&color=0969DA&label=PROFILE+VIEWS" alt="Profile views" />
+  </a>
   <img src="https://img.shields.io/badge/Focus-AI%20%26%20ML-8957E5?style=for-the-badge&logo=python&logoColor=white" alt="AI and ML" />
   <img src="https://img.shields.io/badge/Location-India-FF9933?style=for-the-badge" alt="India" />
 </p>
@@ -28,6 +27,8 @@
   </a>
 </p>
 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Learning+AI+%26+Machine+Learning;Building+Projects+and+Improving+Every+Day;Exploring+Generative+AI+%26+Agentic+AI;Turning+Ideas+Into+Working+Projects" alt="Typing introduction" />
+
 </div>
 
 ---
@@ -36,8 +37,7 @@
 
 - 🎓 I'm a BCA student passionate about software development and Artificial Intelligence.
 - 🤖 My career goal is to become an **AI/ML Engineer**.
-- 🐍 Currently focusing on Python and Machine Learning.
-- 🧠 Exploring Generative AI and Agentic AI.
+- 🧠 Currently exploring Machine Learning, Python, and Agentic AI.
 - 🛠️ I enjoy building projects and learning through hands-on practice.
 - 🚀 I'm working on **Afterlight** and interested in collaborating on **Hackathon Sim**.
 - 🎬 I'm also a content creator.
@@ -47,56 +47,47 @@
 
 ## 🛠️ Tech Stack & Tools
 
-### 💻 Programming Languages & Development
-
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,c,java,js,html,css,react,nodejs,mongodb,mysql,git,github,linux,vscode&perline=7" alt="Python first, followed by other programming languages and development tools" />
+  <img src="https://skillicons.dev/icons?i=python,c,java,js,html,css,react,nodejs,mongodb,mysql,git,github,linux,vscode&perline=7" alt="Programming languages and development tools" />
 </p>
 
 ### 🤖 AI, Machine Learning & Data
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv&perline=7" alt="Python, PyTorch, TensorFlow, and OpenCV" />
-  <br /><br />
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv&perline=7" alt="AI and machine learning tools" />
+  <br />
   <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy" />
   <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas" />
   <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="Scikit-learn" />
-  <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square" alt="Seaborn" />
 </p>
 
 ---
 
 ## 🚀 Featured Projects
 
-<div align="center">
+<p align="center">
+  <a href="https://github.com/PURNENDU2004-crypto/CurrencyConverter">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=PURNENDU2004-crypto&repo=CurrencyConverter&theme=github_dark&hide_border=true" alt="CurrencyConverter project" />
+  </a>
+  <a href="https://github.com/PURNENDU2004-crypto/TicTacToe">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=PURNENDU2004-crypto&repo=TicTacToe&theme=github_dark&hide_border=true" alt="TicTacToe project" />
+  </a>
+  <a href="https://github.com/PURNENDU2004-crypto/StonePaperScissor">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=PURNENDU2004-crypto&repo=StonePaperScissor&theme=github_dark&hide_border=true" alt="StonePaperScissor project" />
+  </a>
+  <a href="https://github.com/PURNENDU2004-crypto/REACT">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=PURNENDU2004-crypto&repo=REACT&theme=github_dark&hide_border=true" alt="React project" />
+  </a>
+</p>
 
-<a href="https://github.com/PURNENDU2004-crypto/CurrencyConverter">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=PURNENDU2004-crypto&repo=CurrencyConverter&theme=github_dark&hide_border=true" alt="CurrencyConverter project" />
-</a>
-<a href="https://github.com/PURNENDU2004-crypto/TicTacToe">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=PURNENDU2004-crypto&repo=TicTacToe&theme=github_dark&hide_border=true" alt="TicTacToe project" />
-</a>
-
-<a href="https://github.com/PURNENDU2004-crypto/StonePaperScissor">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=PURNENDU2004-crypto&repo=StonePaperScissor&theme=github_dark&hide_border=true" alt="StonePaperScissor project" />
-</a>
-<a href="https://github.com/PURNENDU2004-crypto/REACT">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=PURNENDU2004-crypto&repo=REACT&theme=github_dark&hide_border=true" alt="React project" />
-</a>
-
-<br />
-
-<a href="https://github.com/PURNENDU2004-crypto/CODING-LEARNING-PLATFORM">
-  <img src="https://img.shields.io/badge/Coding%20Learning%20Platform-PHP%20Project-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="Coding Learning Platform" />
-</a>
-
-<br /><br />
-
-<a href="https://github.com/PURNENDU2004-crypto?tab=repositories">
-  <img src="https://img.shields.io/badge/Explore-All%20Repositories-238636?style=for-the-badge&logo=github&logoColor=white" alt="All repositories" />
-</a>
-
-</div>
+<p align="center">
+  <a href="https://github.com/PURNENDU2004-crypto/CODING-LEARNING-PLATFORM">
+    <img src="https://img.shields.io/badge/Coding%20Learning%20Platform-PHP%20Project-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="Coding Learning Platform" />
+  </a>
+  <a href="https://github.com/PURNENDU2004-crypto?tab=repositories">
+    <img src="https://img.shields.io/badge/Explore-All%20Repositories-238636?style=for-the-badge&logo=github&logoColor=white" alt="All repositories" />
+  </a>
+</p>
 
 ---
 
@@ -104,30 +95,18 @@
 
 <div align="center">
 
-### 📈 GitHub Statistics
+### 📈 Profile Summary
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=PURNENDU2004-crypto&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" alt="GitHub statistics" />
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=PURNENDU2004-crypto&theme=github_dark" alt="GitHub profile statistics summary" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=PURNENDU2004-crypto&theme=github_dark" alt="GitHub statistics including stars and contributions" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=PURNENDU2004-crypto&theme=github_dark&utcOffset=5.5" alt="GitHub productive time" />
 
-### 🐍 Most Used Languages
+### 💻 Most Used Languages
 
-<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PURNENDU2004-crypto&layout=compact&theme=github_dark&hide_border=true&langs_count=8" alt="Most used programming languages" />
+<img width="60%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=PURNENDU2004-crypto&theme=github_dark" alt="Languages by commit activity" />
 
-### 💻 Language Breakdown by Commits
+<img width="60%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=PURNENDU2004-crypto&theme=github_dark" alt="Languages across repositories" />
 
-<img width="60%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=PURNENDU2004-crypto&theme=github_dark" alt="Programming languages by commit activity" />
-
-### ⏰ Productive Time
-
-<img width="60%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=PURNENDU2004-crypto&theme=github_dark&utcOffset=5.5" alt="GitHub productive time in India time zone" />
-
-</div>
-
----
-
-## 🔥 Contribution Streak
-
-<div align="center">
+### 🔥 Contribution Streak
 
 <img width="70%" src="https://streak-stats.demolab.com/?user=PURNENDU2004-crypto&theme=github-dark-blue&hide_border=true" alt="Current and longest GitHub contribution streak" />
 
@@ -149,7 +128,7 @@
 
 <div align="center">
 
-<img width="95%" src="https://github-profile-trophy.vercel.app/?username=PURNENDU2004-crypto&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=4" alt="GitHub profile trophies" />
+<img width="90%" src="https://github-profile-trophy.vercel.app/?username=PURNENDU2004-crypto&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=4" alt="GitHub profile achievements" />
 
 </div>
 
