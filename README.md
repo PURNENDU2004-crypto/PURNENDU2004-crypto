@@ -102,9 +102,11 @@
 
 ### 💻 Most Used Languages
 
-<img width="60%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=PURNENDU2004-crypto&theme=github_dark" alt="Languages by commit activity" />
 
-<img width="60%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=PURNENDU2004-crypto&theme=github_dark" alt="Languages across repositories" />
+<img width="60%" src="https://img.shields.io/badge/Primary%20Language-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Primary language: Python" />
+
+<img width="60%" src="https://skillicons.dev/icons?i=python" alt="Python" />
+
 
 ### 🔥 Contribution Streak
 
