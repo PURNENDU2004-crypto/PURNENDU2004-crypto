@@ -103,9 +103,9 @@
 ### 💻 Most Used Languages
 
 
-<img width="60%" height="60%" src="https://img.shields.io/badge/Primary%20Language-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Primary language: Python" />
+<img width="100" height="100" src="https://img.shields.io/badge/Primary%20Language-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Primary language: Python" />
 
-<img width="60%" height="60%" src="https://skillicons.dev/icons?i=python" alt="Python" />
+<img width="100" height="100" src="https://skillicons.dev/icons?i=python" alt="Python" />
 
 
 ### 🔥 Contribution Streak
